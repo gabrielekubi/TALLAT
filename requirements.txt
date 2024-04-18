@@ -5,6 +5,5 @@ plotly-express
 streamlit-drawable-canvas
 matplotlib
 opencv-python-headless
-scipy
-streamlit          
+scipy          
 PIL
