@@ -40,7 +40,7 @@ with col1:
 
 if file_buffer is not None:
 
-    imagen_llavero = Image.open('imagenes_llaveros\\' + str(tipo_seleccionado) + '.jpg' )
+    imagen_llavero = Image.open('imagenes_llaveros/' + str(tipo_seleccionado) + '.jpg' )
     imagen_dibujo = Image.open(file_buffer)
 
     with col1:
